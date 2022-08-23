@@ -1,4 +1,3 @@
-import imp
 from django.contrib import admin
 from profiles_api import models
 
